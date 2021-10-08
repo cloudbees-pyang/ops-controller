@@ -3,7 +3,7 @@ removeStrategy:
   items: NONE
 items:
 - kind: folder
-  name: controller-jobs
+  name: controller-job
   description: ''
   properties:
   - kind: envVars
